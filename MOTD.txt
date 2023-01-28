@@ -1,5 +1,7 @@
 MESSAGE OF THE DAY!
 
+this update is just some bug fixes
+
 1. do not ask for mod, it stresses the mods out
 2. new update. backrooms
 3. just dont ask for mod
