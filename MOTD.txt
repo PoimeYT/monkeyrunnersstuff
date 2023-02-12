@@ -1,16 +1,8 @@
 MESSAGE OF THE DAY!
 
-NEW UPDATE!!!!
+Sorry for no Updates, I took a break for a week.
 
-NEW MAP ALONGSIDE LOTS OF NEW STUFF!!!
-
-THE NEW MAP IS 100% EXPERIMENTAL SO EXPECT PROBLEMS.
-
-Edit: Uploading build now, there was a bug with the loaders unloading the incorrect objects.
-
-Slippery Slides Should Now Be Fixed.
-
-If You Are Still Experiencing The Bug, Check For Updates Now.
+There is a new update out now, Nothing big, just some bug fixes
 
 Thank You For Playing!
 Poime, Warrior-E_X_E, And LynxVR :)
