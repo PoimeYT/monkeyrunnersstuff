@@ -6,6 +6,9 @@ AutoMod will ban players for being extra naughty, if you enter a banned username
 
 This also includes some bug fixes including some with the "lynx's basement" area.
 
+PS: Reporting is now live, do not report anybody unless it is absolutely intentional.
+
+
 Game By LynxVR, Poime, And Warrior-E_X_E.
 
 Moderator Applications Are Now CLOSED.
