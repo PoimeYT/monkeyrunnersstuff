@@ -1,12 +1,6 @@
 Message-Of-The-Day
 
-This update includes a working report system, and a new friend: AutoMod!
-
-AutoMod will ban players for being extra naughty, if you enter a banned username, AutoMod will take action.
-
-This also includes some bug fixes including some with the "lynx's basement" area.
-
-PS: Reporting is now live, do not report anybody unless it is absolutely intentional.
+LOCKDOWN CURRENTLY
 
 
 Game By LynxVR, Poime, And Warrior-E_X_E.
@@ -14,3 +8,13 @@ Game By LynxVR, Poime, And Warrior-E_X_E.
 Moderator Applications Are Now CLOSED.
 
 Discord: https://discord.gg/Wm6F6QuqJ3
+
+
+OldMOTD
+This update includes a working report system, and a new friend: AutoMod!
+
+AutoMod will ban players for being extra naughty, if you enter a banned username, AutoMod will take action.
+
+This also includes some bug fixes including some with the "lynx's basement" area.
+
+PS: Reporting is now live, do not report anybody unless it is absolutely intentional.
