@@ -1,11 +1,16 @@
-Message Of The Day!
+Message-Of-The-Day
 
-we did it
-we finally fixed it
+LOCKDOWN IS OVER!
 
-The basement update will be delayed due to development issues.
+The team has been working hard, and we found the issue!
+Expect a bug fix update soon, it will be out within the next hour.
 
-Thanks
+We will also have a version-check system added in the next update to prevent users playing on older versions.
+
+To our moderation team, there are now moderator servers available for testing and general use.
+
+Thank you for your patience!
+
 Poime, LynxVR and Warrior-E_X_E
 Disclamer: Warrior is NOT an owner, but a Monkey Runners Developer.
 Discord: https://tinyurl.com/monkeyrundisc
