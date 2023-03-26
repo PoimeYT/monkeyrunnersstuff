@@ -7,7 +7,7 @@ Expect a bug fix update soon, it will be out within the next hour.
 
 We will also have a version-check system added in the next update to prevent users playing on older versions.
 
-To our moderation team, there are now moderator servers available for testing and general use.
+To our moderation team, there will now moderator servers available for testing and general use.
 
 Thank you for your patience!
 
