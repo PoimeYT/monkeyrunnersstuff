@@ -1,6 +1,12 @@
 Message-Of-The-Day
 
-Multiplayer is now fixed, so go me monke
+Hello everyone!
+
+A new update is released now includes:
+
+There is now hitsounds for the grass, wood, etc.
+
+just a small update that i hope you enjoy
 
 Poime, LynxVR and Warrior-E_X_E
 Disclamer: Warrior is NOT an owner, but a Monkey Runners Developer.
