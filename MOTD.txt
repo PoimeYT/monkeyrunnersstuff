@@ -2,11 +2,11 @@ Message-Of-The-Day
 
 Hello everyone!
 
-A new update is released now includes:
+Sad news for Monkey Runners Fans
 
-There is now hitsounds for the grass, wood, etc.
+Monkey Runners is becoming a side project, as it was basically a testing playground for us to learn scripting. Monkey Runners will still be updated however it will be updated less often.
 
-just a small update that i hope you enjoy
+We will announce the game name soon
 
 Poime, LynxVR and Warrior-E_X_E
 Disclamer: Warrior is NOT an owner, but a Monkey Runners Developer.
