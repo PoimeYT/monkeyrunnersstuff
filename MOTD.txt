@@ -1,8 +1,8 @@
 Hello Everyone!
-<b><i><color=red>WARNING. THERE IS A POTENTIAL HACKER. THEIR NAME IS BIG MONKE AND THEY HAVE A RED NAME. IF THEY JOIN DO NOT PANIC. WE ARE FIXING.</color></i></b>
-<b><i>Go to https://lynxstudios1.statuspage.io/ for more info</i></b>
 
-<color=blue>Just a Notice that a new update will roll out soon, it fixes some bugs including the cosmetics bug, the hacking issue i believe is fixed now and it will be night, so get ready for that!</color>
+<color=blue>New update, just a few bug fixes, more fan art and we now have a Patreon!</color>
+
+<color=yellow>The patreon is just so that we can raise money to pay for servers and other services related to Lynx Studios. Any support will be greatly appriciated.</color>
 
 If there is a hacker attack on this game, stay calm as we will fix it ASAP.
 
@@ -10,4 +10,5 @@ Thanks for playing!
 
 Poime, LynxVR, xcell and Warrior-EXE
 Disclamer: Warrior and xcell are NOT owners, but a Monkey Runners Developers.
-Discord: https://dsc.gg/lynxstudios
+Discord: https://discord.lynxstudios.org
+Patreon: https://patreon.lynxstudios.org
