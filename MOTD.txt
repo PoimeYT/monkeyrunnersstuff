@@ -1,8 +1,8 @@
 Hello Everyone!
 
-<color=blue>New update, just a few bug fixes, more fan art and we now have a Patreon!</color>
+<color=blue>overgrown</color>
 
-<color=yellow>The patreon is just so that we can raise money to pay for servers and other services related to Lynx Studios. Any support will be greatly appriciated.</color>
+<color=yellow>its been 10 years, the grass has grown, vines are everywhere.</color>
 
 If there is a hacker attack on this game, stay calm as we will fix it ASAP.
 
